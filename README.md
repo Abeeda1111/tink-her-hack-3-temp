@@ -1,44 +1,44 @@
-# [Project Name] 🎯
+# Raspberyypi 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Idea pitchers
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Devika Sreekanth - Model Engineering College,Thrikkakkara
+- Member 2: Abeeda P A -  Model Engineering College,Thrikkakkara
+- Member 3: Maansy K - Rajagiri School of Engineering and Technology,Kakkanad
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+A project to help the Blind people. Our project is a system that detects obstacles via real time picture capturing and voicing them out. 
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+There are so many people who are not able to walk on the streets like others do. They are not able to see what's infront of them. How do we solve this?
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We bring you PiGaurd, an embedded system project that detects the bodies of obstacles and voices them out.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- Python
 - [Frameworks used]
-- [Libraries used]
+- OpenCV, gTTS
 - [Tools used]
 
 For Hardware:
-- [List main components]
-- [List specifications]
+- Raspberry Pi , Pi Camera Module
+- Raspberry Pi 3 Model B
 - [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+Raspberry Pi OS Viewer, Putty
 
 # Run
 [commands]
@@ -91,7 +91,7 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
+- Devika: [Specific contributions]
 - [Name 2]: [Specific contributions]
 - [Name 3]: [Specific contributions]
 
